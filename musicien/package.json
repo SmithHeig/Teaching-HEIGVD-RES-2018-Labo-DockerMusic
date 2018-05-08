@@ -1,0 +1,15 @@
+{
+  "name": "musicien",
+  "version": "1.0.0",
+  "description": "Musicien",
+  "main": "musicien.js",
+  "scripts": {
+    "test": "node musicien.js piano"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": "https://github.com/SmithHeig/Teaching-HEIGVD-RES-2018-Labo-DockerMusic",
+  "dependencies": {
+    "uuid": "^3.2.1"
+  }
+}
